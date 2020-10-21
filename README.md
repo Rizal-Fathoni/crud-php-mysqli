@@ -1,7 +1,3 @@
-# crud-php-mysqli
-# by : Rizal Fathoni
-# Create Oktober 2020
-
 Aplikasi CRUD dengan PHP dan MySQLi (Procedural Style)
 
 Bahasa Pemrograman : PHP, Database : MySQL (Ekstensi MySQLi), Metode Pemrograman : Prosedural, Template : Bootstrap 3
